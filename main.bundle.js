@@ -223,7 +223,7 @@ var _a;
 /***/ "../../../../../src/app/mess-result/mess-result.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<p>\n  mess-result works!\n</p>\n"
+module.exports = "<p>\n    mess-result works!\n</p>"
 
 /***/ }),
 
