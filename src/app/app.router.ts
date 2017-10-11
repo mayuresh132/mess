@@ -6,7 +6,7 @@ import { MessResultComponent } from './mess-result/mess-result.component';
 const routes: Routes = [
   // {path : 'login', component: HomePageComponent},
   {path : '', component: HomePageComponent},
-  {path : 'mess', component: MessResultComponent }
+  {path : 'demo', component: MessResultComponent }
 
 ];
 

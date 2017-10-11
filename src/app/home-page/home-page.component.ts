@@ -14,7 +14,7 @@ export class HomePageComponent implements OnInit {
     }
     onClick() {
       // tslint:disable-next-line:no-unused-expression
-      this.router.navigate(['mess']);
+      this.router.navigate(['demo']);
     }
 
   }
