@@ -144,7 +144,7 @@ AppModule = __decorate([
 var routes = [
     // {path : 'login', component: HomePageComponent},
     { path: '', component: __WEBPACK_IMPORTED_MODULE_0__home_page_home_page_component__["a" /* HomePageComponent */] },
-    { path: 'mess', component: __WEBPACK_IMPORTED_MODULE_2__mess_result_mess_result_component__["a" /* MessResultComponent */] }
+    { path: 'demo', component: __WEBPACK_IMPORTED_MODULE_2__mess_result_mess_result_component__["a" /* MessResultComponent */] }
 ];
 var MyRouterModule = __WEBPACK_IMPORTED_MODULE_1__angular_router__["b" /* RouterModule */].forRoot(routes);
 //# sourceMappingURL=app.router.js.map
@@ -202,7 +202,7 @@ var HomePageComponent = (function () {
     };
     HomePageComponent.prototype.onClick = function () {
         // tslint:disable-next-line:no-unused-expression
-        this.router.navigate(['mess']);
+        this.router.navigate(['demo']);
     };
     return HomePageComponent;
 }());
